@@ -4,7 +4,7 @@
 def ackermann(m,n):
 	print(f'a({m},{n})')
 	if m == 0:
-		print('returning 1')
+		print(f'returning {n} + 1')
 		return n + 1
 	if m > 0 and n == 0:
 		print(f'a({m}-1, 1)')

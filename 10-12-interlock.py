@@ -16,7 +16,7 @@ def is_interlocking_word(word, word_list):
 	return False
 
 
-if __name__ == '__main__':
+ 
 	words = word_list()
 
 	result = []
