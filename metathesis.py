@@ -1,10 +1,6 @@
 # 12-3: Metathesis pairs
 # transform one word into another by swapping 2 letters e.g. converse and conserve
 
-# must contain the same letters, so use anagrams
-# zip together and compare values
-# if only 2 letters are different, they are anagram pairs
-
 from inlist import word_list
 from anagrams import anagram_sets
 
