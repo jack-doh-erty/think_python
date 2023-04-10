@@ -1,3 +1,7 @@
 /__pycache__
 test.txt
 testout.txt
+anagram_db.db
+anagrams.db
+anagrams_db.db
+captions.db
