@@ -12,7 +12,6 @@ def sed(pattern, replacement, source, dest):
 
 	for line in open(source):
 		fout.write(line.replace(pattern, replacement))
-		
 	fout.close()
 
 if __name__ == '__main__':
